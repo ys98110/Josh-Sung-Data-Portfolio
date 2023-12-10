@@ -1,4 +1,4 @@
-# Josh Sung Data Portfolio
+# Josh Sung Portfolio
 
 Hi! <br>
 I am a soon to be a graduate from University of Sydney majoring in Data Science with background in Accounting.<br>
