@@ -30,7 +30,7 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 **Technology**: Python, Google Colab, playwirght, xlswriter, pandas, datetime <br>
 **Results**: Instead of copying the itinerary by hand, costing time and sometimes even error, this automated the process. <br>
 
-### [Valuation](https://github.com/ys98110/valuation](https://github.com/ys98110/valuation)
+### [Valuation] (https://github.com/ys98110/valuation)
 **Description**: Seeks different ways to value a company. <br>
 **Skills**: DCF, Markov Chain<br>
 **Technology**: excel, python <br>
