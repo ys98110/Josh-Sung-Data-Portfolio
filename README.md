@@ -30,7 +30,7 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 **Technology**: Python, Google Colab, playwirght, xlswriter, pandas, datetime <br>
 **Results**: Instead of copying the itinerary by hand, costing time and sometimes even error, this automated the process. <br>
 
-### [SQL Practice] (https://github.com/ys98110/Josh-Sung-Data-Portfolio/tree/main/SQL%20practice)
+### [SQL Practice](https://github.com/ys98110/Josh-Sung-Data-Portfolio/tree/main/SQL%20practice)
 **Description**:  Practice SQL on Udemy and various means. <br>
 **Skills**: SQL <br>
 **Technology**: SQL, join, union, subquery, correlated query, conditional filtering <br>
