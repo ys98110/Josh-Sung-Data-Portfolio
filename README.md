@@ -31,13 +31,13 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 **Results**: Instead of copying the itinerary by hand, costing time and sometimes even error, this automated the process. <br>
 
 ### [SQL Practice](https://github.com/ys98110/Josh-Sung-Data-Portfolio/tree/main/SQL%20practice)
-1. **[SQL_practice_1]**(https://github.com/ys98110/Josh-Sung-Data-Portfolio/blob/main/SQL%20practice/sql_practice_1.sql) <br>
+1. **[SQL_practice_1](https://github.com/ys98110/Josh-Sung-Data-Portfolio/blob/main/SQL%20practice/sql_practice_1.sql)**<br>
 **Description**:  Practice SQL on Udemy <br>
 **Skills**: join, union, subquery, correlated query, conditional filtering <br>
 **Technology**: SQL, posgresql, pgadmin <br>
 **Results**: Learning and practicing SQL <br>
 
-2. **[SQL_practice_2]**(https://github.com/ys98110/Josh-Sung-Data-Portfolio/blob/main/SQL%20practice/sql_practice_2.sql) <br>
+2. **[SQL_practice_2](https://github.com/ys98110/Josh-Sung-Data-Portfolio/blob/main/SQL%20practice/sql_practice_2.sql)** <br>
 **Description**:  Practice SQL on Udemy <br>
 **Skills**: Everything in first practice + manipulation, window functions <br>
 **Technology**: SQL, posgresql, pgadmin <br>
