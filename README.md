@@ -37,7 +37,7 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 **Technology**: SQL, posgresql, pgadmin <br>
 **Results**: Learning and practicing SQL <br>
 
-### [Google Sheet Data entry/Project management/Accounts Receivable Template][(https://github.com/ys98110/tour_itinerary_scraper_hthoju](https://github.com/ys98110/all_in_one_googlesheet/blob/main/README.md))
+### [Google Sheet Data entry/Project management/Accounts Receivable Template](https://github.com/ys98110/tour_itinerary_scraper_hthoju](https://github.com/ys98110/all_in_one_googlesheet/blob/main/README.md)
 **Description**:  Streamlines data entry into different aspects of the business <br>
 **Skills**: Conditional formatting, index-match, data validation, SQL querying, <br>
 **Technology**: Google Sheets <br>
