@@ -24,12 +24,6 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 <br>
 ## Others
 
-### [Itinerary Scraper](https://github.com/ys98110/tour_itinerary_scraper_hthoju)
-**Description**:  Scrapes a tour's itinerary from a website and turns it into organised excel file to use/print. <br>
-**Skills**: web scraping, use of API<br>
-**Technology**: Python, Google Colab, playwirght, xlswriter, pandas, datetime <br>
-**Results**: Instead of copying the itinerary by hand, costing time and sometimes even error, this automated the process. <br>
-
 ### [SQL Practice](https://github.com/ys98110/Josh-Sung-Data-Portfolio/tree/main/SQL%20practice)
 1. **[SQL_practice_1](https://github.com/ys98110/Josh-Sung-Data-Portfolio/blob/main/SQL%20practice/sql_practice_1.sql)**<br>
 **Description**:  Practice SQL on Udemy <br>
@@ -43,6 +37,17 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 **Technology**: SQL, posgresql, pgadmin <br>
 **Results**: Learning and practicing SQL <br>
 
+### [Google Sheet Data entry/Project management/Accounts Receivable Template][(https://github.com/ys98110/tour_itinerary_scraper_hthoju](https://github.com/ys98110/all_in_one_googlesheet/blob/main/README.md))
+**Description**:  Streamlines data entry into different aspects of the business <br>
+**Skills**: Conditional formatting, index-match, data validation, SQL querying, <br>
+**Technology**: Google Sheets <br>
+**Results**: Instead of doing the same data entry for different things, one only need to do it once. <br>
+
+### [Itinerary Scraper](https://github.com/ys98110/tour_itinerary_scraper_hthoju)
+**Description**:  Scrapes a tour's itinerary from a website and turns it into organised excel file to use/print. <br>
+**Skills**: web scraping, use of API<br>
+**Technology**: Python, Google Colab, playwirght, xlswriter, pandas, datetime <br>
+**Results**: Instead of copying the itinerary by hand, costing time and sometimes even error, this automated the process. <br>
 
 ### [Valuation](https://github.com/ys98110/valuation)
 **Description**: Seeks different ways to value a company. <br>
