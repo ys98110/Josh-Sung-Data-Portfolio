@@ -39,7 +39,7 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 
 ### [Google Sheet Data entry/Project management/Accounts Receivable Template](https://github.com/ys98110/all_in_one_googlesheet/blob/main/README.md)
 **Description**:  Streamlines data entry into different aspects of the business <br>
-**Skills**: Conditional formatting, index-match, data validation, SQL querying, <br>
+**Skills**: Pivot table, Conditional formatting, index-match, data validation, SQL querying, <br>
 **Technology**: Google Sheets <br>
 **Results**: Instead of doing the same data entry for different things, one only need to do it once. <br>
 
