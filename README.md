@@ -45,7 +45,7 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 
 ### [Itinerary Scraper](https://github.com/ys98110/tour_itinerary_scraper_hthoju)
 **Description**:  Scrapes a tour's itinerary from a website and turns it into organised excel file to use/print. <br>
-**Skills**: web scraping, use of API<br>
+**Skills**: web scraping, formatting file into excel<br>
 **Technology**: Python, Google Colab, playwirght, xlswriter, pandas, datetime <br>
 **Results**: Instead of copying the itinerary by hand, costing time and sometimes even error, this automated the process. <br>
 
