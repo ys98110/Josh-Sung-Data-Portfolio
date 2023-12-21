@@ -20,7 +20,7 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 **Description**:  Analyses whether the given variables affect the sales figure and come up with a relevant ML model to predict Wallmart's weekly sales for a store. <br>
 **Skills**: data analysis, data manipulation, linear regression, data visualization. <br>
 **Technology**: Python, Pandas, Numpy, Sklearn, Seaborn, Matplotlib. <br>
-**Results**: Predicted the sales figure with r squared value of 0.96 <br>
+**Results**: Predicted the sales figure with variable models with high accuracy <br>
 <br>
 ## Others
 
