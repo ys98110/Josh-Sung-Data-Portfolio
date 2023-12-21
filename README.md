@@ -50,7 +50,7 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 **Results**: Instead of copying the itinerary by hand, costing time and sometimes even error, this automated the process. <br>
 
 ### [Valuation](https://github.com/ys98110/valuation)
-**Description**: Seeks different ways to value a company. <br>
+**Description**: Seeks different ways to value a company and strategies for returns. <br>
 **Skills**: DCF, Markov Chain<br>
 **Technology**: excel, python <br>
-**Results**: Learning of intersting valuation methods! <br>
+**Results**: Learning of intersting valuation methods and strategies! <br>
