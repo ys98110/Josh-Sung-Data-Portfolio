@@ -45,8 +45,8 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 
 ### [Valuation](https://github.com/ys98110/valuation)
 **Description**: Seeks different ways to value a company and strategies for returns. <br>
-**Skills**: DCF, Markov Chain<br>
-**Technology**: excel, python <br>
+**Skills**: DCF, Markov Chain, AB testing<br>
+**Technology**: Excel, Python <br>
 **Results**: Learning of intersting valuation methods and strategies! <br>
 
 ### [Itinerary Scraper](https://github.com/ys98110/tour_itinerary_scraper_hthoju)
