@@ -13,7 +13,7 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 **Skills**: data cleaning, data manipulation, data analysis, data visualization.<br>
 **Technology**: PowerBI, Excel <br>
 **Results**: Indepth overview and analysis of the commission generated, and clearly locate areas needed of improvement.<br>
-<br>
+
 
 ### [Wallmart Sales Prediction](https://github.com/ys98110/wallmart_sales_pred)
 
@@ -21,7 +21,7 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 **Skills**: data analysis, data manipulation, linear regression, data visualization. <br>
 **Technology**: Python, Pandas, Numpy, Sklearn, Seaborn, Matplotlib. <br>
 **Results**: Came up with various models with high accuracy to take the given input to predict the sales figure <br>
-<br>
+
 ### [Valuation](https://github.com/ys98110/valuation)
 **Description**: Seeks different ways to value a company and formulate strategies for returns. <br>
 **Skills**: DCF, Markov Chain, AB testing<br>
