@@ -5,7 +5,7 @@ I am a soon to be graduate from University of Sydney majoring in Data Science wi
 Below are some of my projects that I've worked on. <br>
 It is not much at the moment but I've put a lot of thought into each one and I am planning to add more!<br>
 
-## Data Analyst Portfolio
+## Data Analysis
 
 ### [Korean Tour Agency Commmission Analysis](https://github.com/ys98110/Korean-tour-agency-powerBI)
 
@@ -22,6 +22,12 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 **Technology**: Python, Pandas, Numpy, Sklearn, Seaborn, Matplotlib. <br>
 **Results**: Came up with various models with high accuracy to take the given input to predict the sales figure <br>
 <br>
+### [Valuation](https://github.com/ys98110/valuation)
+**Description**: Seeks different ways to value a company and formulate strategies for returns. <br>
+**Skills**: DCF, Markov Chain, AB testing<br>
+**Technology**: Excel, Python <br>
+**Results**: Learning of intersting valuation methods and strategies! <br>
+
 ## Others
 
 ### [SQL Practice](https://github.com/ys98110/Josh-Sung-Data-Portfolio/tree/main/SQL%20practice)
@@ -43,11 +49,6 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 **Technology**: Google Sheets <br>
 **Results**: Instead of doing the same data entry for different things, one only need to do it once. <br>
 
-### [Valuation](https://github.com/ys98110/valuation)
-**Description**: Seeks different ways to value a company and formulate strategies for returns. <br>
-**Skills**: DCF, Markov Chain, AB testing<br>
-**Technology**: Excel, Python <br>
-**Results**: Learning of intersting valuation methods and strategies! <br>
 
 ### [Itinerary Scraper](https://github.com/ys98110/tour_itinerary_scraper_hthoju)
 **Description**:  Scrapes a tour's itinerary from a website and turns it into organised excel file to use/print. <br>
