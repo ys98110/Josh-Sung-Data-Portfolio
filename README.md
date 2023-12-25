@@ -24,7 +24,7 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 
 ### [Valuation](https://github.com/ys98110/valuation)
 **Description**: Seeks different ways to value a company and formulate strategies for returns. <br>
-**Skills**: DCF, Markov Chain, AB testing<br>
+**Skills**: DCF, Markov Chain<br>
 **Technology**: Excel, Python <br>
 **Results**: Learning of intersting valuation methods and strategies! <br>
 
