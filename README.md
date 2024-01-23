@@ -8,7 +8,7 @@ It is not much at the moment but I've put a lot of thought into each one and I a
 ## Data Analysis
 
 ### [Korean Tour Agency Commmission Analysis](https://github.com/ys98110/Korean-tour-agency-powerBI)
-
+[Demo link](https://www.novypro.com/project/korean-tour-agency-commission-analysis)
 **Description**:  Analyses current status of one of the key revenue streams of Korean tour agencies in a visual representation. <br>
 **Skills**: data cleaning, data manipulation, data analysis, data visualization.<br>
 **Technology**: PowerBI, Excel <br>
