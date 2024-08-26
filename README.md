@@ -1,9 +1,9 @@
 # Josh Sung Portfolio
 
 Hi! <br>
-I am a soon to be graduate from University of Sydney majoring in Data Science with background in Accounting.<br>
-Below are some of my projects that I've worked on. <br>
-It is not much at the moment but I've put a lot of thought into each one and I am planning to add more!<br>
+Below are projects I created for my work and out of personal interest. <br>
+Some of the projects I created for work really saved me a lot of time and were very useful. <br>
+Others that were created for my personal interest was mostly testing of concepts that I recently learned. <br>
 
 ## Data Analysis
 
