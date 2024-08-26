@@ -3,7 +3,7 @@
 Hi! <br>
 Below are projects I created for my work and out of personal interest. <br>
 Some of the projects I created for work really saved me a lot of time and were very useful. <br>
-Others that were created for my personal interest was mostly testing of concepts that I recently learned. <br>
+Others that were created for my personal interest was mostly testing of concepts that I recently discovered. <br>
 
 ## Data Analysis
 
