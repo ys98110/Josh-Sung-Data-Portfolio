@@ -48,11 +48,3 @@ Others that were created for my personal interest was mostly testing of concepts
 **Skills**: Pivot table, Conditional formatting, index-match, data validation, SQL querying, <br>
 **Technology**: Google Sheets <br>
 **Results**: Instead of doing the same data entry for different things, one only need to do it once. <br>
-
-
-### [Itinerary Scraper](https://github.com/ys98110/tour_itinerary_scraper_hthoju)
-**Description**:  Scrapes a tour's itinerary from a website and turns it into organised excel file to use/print. <br>
-**Skills**: web scraping, formatting file into excel<br>
-**Technology**: Python, Google Colab, playwirght, xlswriter, pandas, datetime <br>
-**Results**: Instead of copying the itinerary by hand, costing time and sometimes even error, this automated the process. <br>
-
